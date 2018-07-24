@@ -1,0 +1,2 @@
+nbt2yaml>=0.3.0
+svgwrite>=1.1.12
